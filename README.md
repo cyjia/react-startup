@@ -18,7 +18,7 @@ This intends to be an minimum start up project for ReactJs newbies.
 
 ## Build
 
-- Run `npm bundle`
+- Run `npm run bundle`
 
 
 
