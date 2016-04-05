@@ -2,6 +2,8 @@
 
 This intends to be an minimum start up project for ReactJs newbies.
 
+![Demo](https://raw.githubusercontent.com/cyjia/githubmedia/master/react-startup.gif)
+
 ## Start Development
 
 1. Clone this project. `git clone https://github.com/cyjia/react-startup`
@@ -19,6 +21,7 @@ This intends to be an minimum start up project for ReactJs newbies.
 ## Build
 
 - Run `npm run bundle`
+
 
 
 
